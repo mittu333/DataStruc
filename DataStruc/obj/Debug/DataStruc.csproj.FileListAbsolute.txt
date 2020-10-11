@@ -1,0 +1,5 @@
+/Users/sandeep/Desktop/Projects/DataStruc/DataStruc/bin/Debug/DataStruc.exe
+/Users/sandeep/Desktop/Projects/DataStruc/DataStruc/bin/Debug/DataStruc.pdb
+/Users/sandeep/Desktop/Projects/DataStruc/DataStruc/obj/Debug/DataStruc.csprojAssemblyReference.cache
+/Users/sandeep/Desktop/Projects/DataStruc/DataStruc/obj/Debug/DataStruc.exe
+/Users/sandeep/Desktop/Projects/DataStruc/DataStruc/obj/Debug/DataStruc.pdb

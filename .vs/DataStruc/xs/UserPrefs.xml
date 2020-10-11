@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{17270AF8-6AD7-43C0-93EA-05D9A6BA1D77}|Default">
+  <MonoDevelop.Ide.ItemProperties.DataStruc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataStruc" expanded="True">
+            <Node name="DataStruc" expanded="True">
+              <Node name="LinkedList" expanded="True">
+                <Node name="Node.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
